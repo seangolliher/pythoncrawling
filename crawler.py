@@ -2,7 +2,7 @@
 
 ### Basic Web Crawler in Python to Grab a URL from command line
 #   Sean Golliher 1/2012
-##########################
+#########################
 
 from BeautifulSoup import BeautifulSoup
 import sys   #allow users to input string
